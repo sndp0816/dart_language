@@ -1,6 +1,5 @@
 //Variable in dart
 
-import 'package:test/test.dart';
 
 void main() {
   // datatype variable_name = value;
